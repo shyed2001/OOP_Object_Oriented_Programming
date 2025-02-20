@@ -1,0 +1,20 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Name Roll Subject1 Subject2 Subject3 Subject4 Subject5 
+Jane 10916042 78 84 90 88 92
+Alice 10916043 88 90 85 79 93
+Bob 10916044 76 82 75 89 80
+Harry 10916045 56 79 91 65
+=======
+=======
+>>>>>>> Stashed changes
+Name Roll Subject1 Subject2 Subject3 Subject4 Subject5 
+Jane 10916042 78 84 90 88 92
+Alice 10916043 88 90 85 79 93
+Bob 10916044 76 82 75 89 80
+Harry 10916045 56 79 91 65
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+John 10916046 95 88 76 92 85

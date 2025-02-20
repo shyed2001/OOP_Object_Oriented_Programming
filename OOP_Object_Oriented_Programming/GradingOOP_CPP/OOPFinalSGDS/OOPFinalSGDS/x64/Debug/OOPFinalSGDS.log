@@ -1,0 +1,27 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+﻿  OOPFinalSGDS.cpp
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,36): error C2955: 'std::basic_istream': use of class template requires template argument list
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(24,1): message : see declaration of 'std::basic_istream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): error C2955: 'std::basic_istream': use of class template requires template argument list
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(24,1): message : see declaration of 'std::basic_istream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): error C2665: 'std::basic_istream<_Elem,_Traits>::getline': no overloaded function could convert all the argument types
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(440,39): message : could be 'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::getline(_Elem *,std::streamsize)'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): message : 'std::basic_istream<_Elem,_Traits>::getline': the function template cannot convert parameter 1 from type 'std::ifstream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): message : while trying to match the argument list '(std::ifstream, std::string)'
+=======
+=======
+>>>>>>> Stashed changes
+﻿  OOPFinalSGDS.cpp
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,36): error C2955: 'std::basic_istream': use of class template requires template argument list
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(24,1): message : see declaration of 'std::basic_istream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): error C2955: 'std::basic_istream': use of class template requires template argument list
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(24,1): message : see declaration of 'std::basic_istream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): error C2665: 'std::basic_istream<_Elem,_Traits>::getline': no overloaded function could convert all the argument types
+E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(440,39): message : could be 'std::basic_istream<_Elem,_Traits> &std::basic_istream<_Elem,_Traits>::getline(_Elem *,std::streamsize)'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): message : 'std::basic_istream<_Elem,_Traits>::getline': the function template cannot convert parameter 1 from type 'std::ifstream'
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\OOPFinalSGDS\OOPFinalSGDS\OOPFinalSGDS.cpp(104,29): message : while trying to match the argument list '(std::ifstream, std::string)'
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

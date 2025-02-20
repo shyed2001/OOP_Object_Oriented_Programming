@@ -1,0 +1,15 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+﻿  StudentGrade2.cpp
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\StudentGrade2\StudentGrade2.cpp(405,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  StudentGrade2.vcxproj -> F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\x64\Debug\StudentGrade2.exe
+=======
+﻿  StudentGrade2.cpp
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\StudentGrade2\StudentGrade2.cpp(405,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  StudentGrade2.vcxproj -> F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\x64\Debug\StudentGrade2.exe
+>>>>>>> Stashed changes
+=======
+﻿  StudentGrade2.cpp
+F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\StudentGrade2\StudentGrade2.cpp(405,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  StudentGrade2.vcxproj -> F:\GitHubCloneFiles\MSc_CSE\OOP_Object_Oriented_Programming\GradingOOP_CPP\StudentGrade2\x64\Debug\StudentGrade2.exe
+>>>>>>> Stashed changes

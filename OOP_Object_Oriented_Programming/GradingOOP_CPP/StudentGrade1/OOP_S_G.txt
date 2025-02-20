@@ -1,0 +1,55 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Sl	Roll	Name	CSE 101	CSE 102	CSE 103	CSE 104	CSE 105 
+1	MCE07905532	Morad Hossen	A-	A-	B+	A+	A	3.45	8.25	28.50	8.25
+2	MSE07905536	Shyed Shahriar Housaini	B-	A	A-	A-	A-	3.27	8.25	27.00	8.25
+3	MCE07905537	Anjan Chandra Das	A+	B	A+	B-	A	3.70	8.25	30.56	8.25
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+	3.45	8.25	28.50	8.25
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F	2.29	8.25	12.00	5.25
+6	MCE08005542	Farha Jabin	B+	B+	A+	A+	C+	3.59	8.25	29.62	8.25
+7	MCE08005543	Sadia Jafrin	A+	F	D	F	F	3.00	8.25	18.00	6.00
+8	MCE08005544	Abdishakur Hussein	C+	C+	A-	A-	B+	2.95	8.25	24.38	8.25
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	A+	2.64	8.25	21.75	8.25
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D	3.22	8.25	21.75	6.75
+1	MCE07905532	Morad Hossen Hossain	A-	A-	B+	A+	A	3.45	8.25	28.50	8.25
+2	MSE07905536	Shyed Shahriar Housaini  Shomrat	B-	A	A-	A-	A-	3.27	8.25	27.00	8.25
+3	MCE07905537	Anjan Chandra Das  Onjon	A+	B	A+	B-	A	3.70	8.25	30.56	8.25
+4	MCE08005540	Md. Ali Ahsan Ali	B+	B+	A+	C+	A+	3.45	8.25	28.50	8.25
+5	MCE08005541	Nasrin Akter Sumi Nasrin	C+	D	F	D	F	2.29	8.25	12.00	5.25
+6	MCE08005542	Farha Jabin Jabin	B+	B+	A+	A+	F	3.59	8.25	29.62	8.25
+7	MCE08005543	Sadia Jafrin Sadia	A+	F	D	F	F	3.00	8.25	18.00	6.00
+8	MCE08005544	Abdishakur Hussein Somali	C+	C+	A-	A-	F	2.95	8.25	24.38	8.25
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	F	2.64	8.25	21.75	8.25
+10	MCE08005547	Hussein Ibrahim Ahmed Somalian	C+	F	A	A+	D	3.22	8.25	21.75	6.75
+
+ Total Offered Credit 	10.25
+=======
+=======
+>>>>>>> Stashed changes
+Sl	Roll	Name	CSE 101	CSE 102	CSE 103	CSE 104	CSE 105 
+1	MCE07905532	Morad Hossen	A-	A-	B+	A+	A	3.45	8.25	28.50	8.25
+2	MSE07905536	Shyed Shahriar Housaini	B-	A	A-	A-	A-	3.27	8.25	27.00	8.25
+3	MCE07905537	Anjan Chandra Das	A+	B	A+	B-	A	3.70	8.25	30.56	8.25
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+	3.45	8.25	28.50	8.25
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F	2.29	8.25	12.00	5.25
+6	MCE08005542	Farha Jabin	B+	B+	A+	A+	C+	3.59	8.25	29.62	8.25
+7	MCE08005543	Sadia Jafrin	A+	F	D	F	F	3.00	8.25	18.00	6.00
+8	MCE08005544	Abdishakur Hussein	C+	C+	A-	A-	B+	2.95	8.25	24.38	8.25
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	A+	2.64	8.25	21.75	8.25
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D	3.22	8.25	21.75	6.75
+1	MCE07905532	Morad Hossen Hossain	A-	A-	B+	A+	A	3.45	8.25	28.50	8.25
+2	MSE07905536	Shyed Shahriar Housaini  Shomrat	B-	A	A-	A-	A-	3.27	8.25	27.00	8.25
+3	MCE07905537	Anjan Chandra Das  Onjon	A+	B	A+	B-	A	3.70	8.25	30.56	8.25
+4	MCE08005540	Md. Ali Ahsan Ali	B+	B+	A+	C+	A+	3.45	8.25	28.50	8.25
+5	MCE08005541	Nasrin Akter Sumi Nasrin	C+	D	F	D	F	2.29	8.25	12.00	5.25
+6	MCE08005542	Farha Jabin Jabin	B+	B+	A+	A+	F	3.59	8.25	29.62	8.25
+7	MCE08005543	Sadia Jafrin Sadia	A+	F	D	F	F	3.00	8.25	18.00	6.00
+8	MCE08005544	Abdishakur Hussein Somali	C+	C+	A-	A-	F	2.95	8.25	24.38	8.25
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	F	2.64	8.25	21.75	8.25
+10	MCE08005547	Hussein Ibrahim Ahmed Somalian	C+	F	A	A+	D	3.22	8.25	21.75	6.75
+
+ Total Offered Credit 	10.25
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
